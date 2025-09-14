@@ -1,4 +1,5 @@
 Dashboard de Criptomoedas
+
 Este projeto é um dashboard interativo que exibe informações em tempo real sobre as principais criptomoedas, utilizando dados da API CoinGecko. Ele foi construído com HTML, CSS e JavaScript, com a ajuda do framework Tailwind CSS para um design responsivo e moderno.
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Funcionalidades:
